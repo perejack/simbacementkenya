@@ -233,7 +233,7 @@ function App() {
             </div>
             <div>
               <h4 className="font-semibold mb-3">Contact Us</h4>
-              <p className="text-gray-400 mb-2">Phone: 0786 338 487</p>
+              <p className="text-gray-400 mb-2">Phone: 0717 589 355</p>
               <p className="text-gray-400">Location: Nairobi, Kenya</p>
             </div>
             <div>
