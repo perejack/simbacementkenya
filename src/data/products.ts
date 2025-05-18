@@ -72,7 +72,7 @@ export const steelProducts: Product[] = [
     name: 'Deformed Steel Bar D20',
     price: 2800,
     description: '20mm deformed steel bar for heavy construction',
-    image: 'https://aanddstore.co.ke/wp-content/uploads/2023/12/deformed-bar.jpg',
+    image: 'https://omojja.com/cdn/shop/products/D20.jpg?v=1651047160',
     category: 'steel',
     tags: ['Steel', 'Construction', 'Heavy Duty']
   },
@@ -90,7 +90,7 @@ export const steelProducts: Product[] = [
     name: 'Deformed Steel Bar D32',
     price: 10250,
     description: '32mm deformed steel bar for heavy construction',
-    image: 'https://aanddstore.co.ke/wp-content/uploads/2023/12/deformed-bar.jpg',
+    image: 'https://homedevo.com/images/detailed/14/steel_bar_deformed_2_if5s-di_suwt-qg_y19w-vs_kigk-12.jpg',
     category: 'steel',
     tags: ['Steel', 'Construction', 'Heavy Duty']
   },
@@ -117,7 +117,7 @@ export const steelProducts: Product[] = [
     name: 'Hoop Iron',
     price: 2250,
     description: 'Strong and durable hoop iron for construction',
-    image: 'https://aanddstore.co.ke/wp-content/uploads/2020/12/IMPORTED-HOOP-IRON5-300x183-removebg-preview.jpg',
+    image: 'https://brick2wall.co.ke/image/cache/catalog/hoop%20iron-842x595.jpg',
     category: 'steel',
     tags: ['Steel', 'Construction']
   }
